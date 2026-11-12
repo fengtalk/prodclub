@@ -6,3 +6,12 @@
 @media(max-width:640px){.keyword-title{font-size:clamp(24px,7.35vw,32px);letter-spacing:-.8px;line-height:1.5}.hero .lead{max-width:34em}.footer-bottom span{overflow-wrap:anywhere}}
 
 .footer-top .brand{flex-wrap:wrap;row-gap:8px;max-width:100%}.footer-top .brand-sub{max-width:100%;white-space:normal}
+
+/* Referral card and payment marks. */
+.ticket-symbol{display:block;width:43px;height:43px;object-fit:contain}
+.code-row{flex-wrap:wrap;gap:15px}
+.ticket-order{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:10px 13px;border-radius:4px;background:var(--accent);color:var(--ink);font-size:12px;font-weight:650;white-space:nowrap;transition:background .18s}
+.ticket-order:hover{background:#edffa5}
+.payment-logo{display:flex;align-items:center;gap:12px;min-height:44px;margin-bottom:24px;font-size:16px;font-weight:650}
+.payment-logo img{display:block;object-fit:contain;flex:none}
+@media(max-width:640px){.ticket-top .ticket-symbol{width:36px;height:36px}.ticket-order{width:100%;font-size:13px}.payment-logo{margin-bottom:20px}}

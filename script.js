@@ -16,3 +16,14 @@ for (const button of document.querySelectorAll('[data-copy]')) {
     statusTimer = setTimeout(() => statusBox.classList.remove('show'), 4000);
   });
 }
+
+// Keep one FAQ answer open, including in browsers without details-name grouping.
+const faqItems = [...document.querySelectorAll('.faqs details')];
+for (const item of faqItems) {
+  item.addEventListener('toggle', () => {
+    if (!item.open) return;
+    for (const other of faqItems) {
+      if (other !== item && other.open) other.open = false;
+    }
+  });
+}
