@@ -10,7 +10,7 @@
 
 ## ProdClub 提供什么服务？
 
-根据 [ProdClub 官网](https://prodclub.ai/)，ChatGPT Plus / Pro 代充是将订阅开通到买家自己的账号上。平台说明无需更换账号，也不与其他人共用账号；付款后需按订单页要求提交 Session，再由平台处理开通。
+根据 [ProdClub 官网](https://prodclub.ai/r/8G2FVD)，ChatGPT Plus / Pro 代充是将订阅开通到买家自己的账号上。平台说明无需更换账号，也不与其他人共用账号；付款后需按订单页要求提交 Session，再由平台处理开通。
 
 它适合已经有 ChatGPT 个人账号，希望使用支付宝或 USDT 支付的用户。账号是否满足充值或升级条件，要在购买前核对具体报价。
 
@@ -97,7 +97,7 @@ ProdClub 是第三方服务。本文不声称其获得 OpenAI 授权，GitHub �
 
 ## 信息来源与更新
 
-- [ProdClub 官网](https://prodclub.ai/)
+- [ProdClub 官网](https://prodclub.ai/r/8G2FVD)
 - [ProdClub 帮助中心](https://prodclub.ai/help)
 - [ProdClub 账号凭据说明](https://prodclub.ai/help/safety)
 - [ProdClub 退款说明](https://prodclub.ai/help/refund)
