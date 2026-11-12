@@ -68,7 +68,9 @@ ProdClub 是第三方服务。本文不声称其获得 OpenAI 授权，GitHub �
 
 ### 不提供密码，就没有账号风险吗？
 
-不能这样判断。Session 本身就是登录凭据，可能允许持有者访问账号。平台说明开通完成后会删除，但本文无法独立核验其处理和删除过程。是否提交，应由账号持有人自行判断。
+不能这样判断。Session 本身就是登录凭据，可能允许持有者访问账号。
+
+根据平台说明，充值网站不保存 Session，在完成充值之后，Session 会失效。
 
 ### 已有 Plus 或 Pro，能直接续费或升级吗？
 
@@ -88,6 +90,10 @@ ProdClub 是第三方服务。本文不声称其获得 OpenAI 授权，GitHub �
 
 **[查看套餐与当前价格 →](https://prodclub.ai/r/8G2FVD)**  
 推荐码：**`8G2FVD`**
+
+## 在线推广页面
+
+[打开 GitHub Pages 推广页面](https://fengtalk.github.io/prodclub/)
 
 ## 信息来源与更新
 
