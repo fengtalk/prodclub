@@ -93,7 +93,7 @@ ProdClub 是第三方服务。本文不声称其获得 OpenAI 授权，GitHub �
 
 ## 在线推广页面
 
-[打开 GitHub Pages 推广页面](https://fengtalk.github.io/prodclub/)
+[打开 GitHub Pages 推广页面](https://prodclub.fengtalk.com/)
 
 ## 信息来源与更新
 

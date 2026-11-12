@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://fengtalk.github.io/prodclub/sitemap.xml
+Sitemap: https://prodclub.fengtalk.com/sitemap.xml
