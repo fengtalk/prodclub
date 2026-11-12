@@ -43,7 +43,7 @@
 
 是否到账、是否完成开通，请查看订单状态。遇到付款后状态未更新的情况，先保留付款凭证并联系平台客服核对，避免重复付款。
 
-支付说明来源：[ProdClub 帮助中心](https://prodclub.ai/help)。
+支付说明来源：ProdClub 帮助中心（请从推荐入口进入查看）。
 
 ## 购买流程
 
@@ -98,8 +98,8 @@ ProdClub 是第三方服务。本文不声称其获得 OpenAI 授权，GitHub �
 ## 信息来源与更新
 
 - [ProdClub 官网](https://prodclub.ai/r/8G2FVD)
-- [ProdClub 帮助中心](https://prodclub.ai/help)
-- [ProdClub 账号凭据说明](https://prodclub.ai/help/safety)
-- [ProdClub 退款说明](https://prodclub.ai/help/refund)
+- ProdClub 帮助中心（请从推荐入口进入查看）
+- ProdClub 账号凭据说明（请从推荐入口进入查看）
+- ProdClub 退款说明（请从推荐入口进入查看）
 
 信息核对日期：2026 年 11 月 12 日（北京时间）。本文据官网公开说明整理，未进行实际付款或充值测试。发现介绍过期可在本仓库提出更正；订单售后请联系平台客服。
